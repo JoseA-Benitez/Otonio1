@@ -1,0 +1,20 @@
+body {background-image: url('../imagenes/fondo.jpg');}
+        #container {border: 3px black;
+                border-style:solid;
+                width: 40%;
+                height:80%;
+                margin:30px;
+                padding: 5px;
+                background-color: rgba(253, 173, 107, 0.678);
+                text-align: center;
+                font-family: 'Dancing Script', cursive;
+                font-size: 35px;
+    }
+    #container:hover {box-shadow: 10px 10px 20px rgba(86, 208, 245, 0.548),
+                                    -10px -10px 20px rgba(86, 208, 245, 0.548),
+                                    -10px 10px 20px  rgba(86, 208, 245, 0.548),
+                                    10px -10px 20px  rgba(86, 208, 245, 0.548);}
+    h1 {font-size: 70px;
+        font-family: 'Courgette', cursive;}
+    h2 {font-size: 70px;
+        font-family: 'Kaushan Script', cursive;}
